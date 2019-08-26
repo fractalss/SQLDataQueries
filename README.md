@@ -1,10 +1,4 @@
-# Homework Assignment
-
-## Installation Instructions
-
-* Refer to the [installation guide](Installation.md) to install the necessary files.
-
-## Instructions
+# Sakila Database Queries
 
 * 1a. Display the first and last names of all actors from the table `actor`.
 
@@ -97,11 +91,3 @@
 'staff_list'
 'store'
 ```
-
-## Uploading Homework
-
-* To submit this homework using BootCampSpot:
-
-  * Create a GitHub repository.
-  * Upload your .sql file with the completed queries.
-  * Submit a link to your GitHub repo through BootCampSpot.
